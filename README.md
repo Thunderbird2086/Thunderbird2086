@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am:
+- an Open Source Enthusiast
+- passionate about building custom mechanical keyboards.
+
